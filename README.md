@@ -2,7 +2,7 @@
 
 - 📉 Currently working as an AI Advisor at Orcawise working on Custom LLM fine-tuning and RAG.
 - ✅ Up to date on Machine Learning Model training and evalutation.
-- 👩‍✈️ Former Army Officer and Intelligence Analyst.
+- 👩‍✈ Former Army Officer and Intelligence Analyst.
 - 🤓 Looking for roles in AI Engineereing.
 - 🇮🇪 Based in West Cork, Ireland.
 - 💪 Professional, hard-working, reliable, determined!
